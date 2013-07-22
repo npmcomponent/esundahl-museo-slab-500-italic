@@ -11,9 +11,9 @@
     "museo-slab-500-italic.css"
   ],
   "fonts": [
-    "fonts/museo_slab500italic-webfont.eot",
-    "fonts/museo_slab500italic-webfont.svg",
-    "fonts/museo_slab500italic-webfont.ttf",
-    "fonts/museo_slab500italic-webfont.woff"
+    "fonts/museo_slab_500italic-webfont.eot",
+    "fonts/museo_slab_500italic-webfont.svg",
+    "fonts/museo_slab_500italic-webfont.ttf",
+    "fonts/museo_slab_500italic-webfont.woff"
   ]
 }
