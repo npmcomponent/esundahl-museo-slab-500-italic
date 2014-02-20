@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-museo-slab-500-italic",
+  "description": "Museo Slab 500 Italic Font Component",
+  "version": "0.0.1",
+  "keywords": [
+    "font",
+    "museo",
+    "slab",
+    "500",
+    "italic"
+  ],
+  "styles": [
+    "museo-slab-500-italic.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
